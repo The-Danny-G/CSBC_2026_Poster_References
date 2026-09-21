@@ -2,7 +2,7 @@
 References and further reading for my poster at CSBC 2026 in Paris
 
 ## Datasets 
-Nestorowa scRNA-Seq Dataset: Nestorowa, S. et al. A single-cell resolution map of mouse hematopoietic stem and progenitor cell differentiation. Blood 128, e20–e31 (2016). URL https://doi.org/10.1182/blood-2016-05-716480.
+**Nestorowa scRNA-Seq Dataset**: Nestorowa, S. et al. A single-cell resolution map of mouse hematopoietic stem and progenitor cell differentiation. Blood 128, e20–e31 (2016). URL https://doi.org/10.1182/blood-2016-05-716480.
 
 Krumsiek model: Krumsiek, J., Marr, C., Schroeder, T. & Theis, F. J. Hierarchical differentiation of myeloid progenitors is encoded in the transcription factor network. PLOS ONE 6, 1–10 (2011). URL: https://doi.org/10.1371/journal.pone.0022649.
 
